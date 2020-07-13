@@ -1,3 +1,7 @@
+/*Given an array of integers, calculate the fractions of its elements that are positive, 
+negative, and are zeros. Print the decimal value of each fraction on a new line.*/
+
+
 const arr = [6,-4,3,-9,0,4,1];
 let positive = [];
 let negative = [];
